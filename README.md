@@ -1,7 +1,7 @@
 #Gas Inquiry Chatbot
 Note: This script is just a college assignment designed to understand the concept of Regular Expressions (Regex) in Natural Language Processing (NLP).
 
-#Overview
+# Overview
 This Python script demonstrates a simple gas inquiry chatbot that utilizes regular expressions to validate user inputs and provide context-aware responses.'
 The primary goal of this assignment is to practice and understand how regular expressions can be used effectively in NLP tasks such as input validation and pattern matching.
 
