@@ -18,7 +18,9 @@ Simulated Customer Interaction: Collects and validates customer details (name, e
 Uses regular expressions to match user inputs with predefined patterns to generate appropriate responses for various queries, such as:
 
 New gas connection inquiries
+
 Booking or refill requests
+
 Checking the status of bookings
 Address change requests
 Complaints and issues
